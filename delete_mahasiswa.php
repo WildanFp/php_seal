@@ -7,4 +7,4 @@ if ($query) {
     header('Location: index.php');
 } else {
     die("Gagal menghapus Data");
-}
+} 
